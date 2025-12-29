@@ -2,7 +2,7 @@
   "name": "task-manager",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://DileepKumarGrandhi.github.io/TaskManager",
+  "homepage": "https://DileepKumarGrandhi.github.io/TaskManager1",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

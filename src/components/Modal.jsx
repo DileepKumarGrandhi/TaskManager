@@ -1,6 +1,5 @@
 import React from 'react';
 import { colors, shadows, borderRadius } from '../theme';
-import Button from './Button';
 
 const Modal = ({ isOpen, onClose, children, title }) => {
   if (!isOpen) return null;
